@@ -85,7 +85,7 @@ export function NewTransactionModal({ isOpen, onRequestClose }: newTransactionMo
         </TransactionTypeContainer>
 
         <input
-          placeholder="Catergoria"
+          placeholder="Categoria"
           value={category}
           onChange={event => setCategory(event.target.value)}
         />
