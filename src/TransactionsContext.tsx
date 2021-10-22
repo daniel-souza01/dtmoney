@@ -43,7 +43,6 @@ export function TransactionsProvider ({ children }: TransactionsProviderProps) {
     })
     const { transaction } = response.data
 
-    // console.log(transaction)
     setTransactions([
       ...transactions,
       transaction,
