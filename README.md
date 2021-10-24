@@ -21,7 +21,7 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
- <a href="#-layout">Layout</a> • 
+ <a href="#-demo">Demo</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-contribuidores">Contribuidores</a> • 
@@ -39,8 +39,53 @@ O dt money é uma aplicação de controle de finanças pessoais onde o usuário 
 - [x] Todas as transações são exibidas em uma tabela;
 - [x] É mostrado um resumo com todas as entradas, saídas e o total de dinheiro.
 
-## 🎨 Layout
+## 🎨 Demo
 
-<a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=136%3A546">
-  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
-</a>
+<img alt="gif dt money" src="src/assets/Screencast 2021-10-24 14_26_54.gif">
+
+## 🚀 Como executar o projeto
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+```bash
+
+# Clone este repositório
+$ git clone git@github.com:DanielSouz4/dt-money.git
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd dt-money
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run start
+
+# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+
+```
+
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+-   **[ReactJS](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
+-   **[TypeScript](https://react-icons.github.io/react-icons/)**
+-   **[Styled Componets](https://react-icons.github.io/react-icons/)**
+-   **[MirageJS](https://react-icons.github.io/react-icons/)**
+-   **[Axios](https://github.com/axios/axios)**
+-   **[ContextAPI](https://react-leaflet.js.org/en/)**
+-   **[hooks](https://react-leaflet.js.org/)**
+
+> Veja o arquivo  [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/web/package.json)
+
+Utilitários
+
+-   **[Create-eact-app](https://www.figma.com/)**
+-   **[google-fonts](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1)**
+-   **[react-modal](https://react-leaflet.js.org/en/)**
+-   **[Intl](https://react-leaflet.js.org/en/)**
