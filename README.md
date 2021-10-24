@@ -21,10 +21,9 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
- <a href="#-demo">Demo</a> • 
- <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-contribuidores">Contribuidores</a> • 
+ <a href="#-layout">Layout</a> • 
+ <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-autor">Autor</a> • 
  <a href="#user-content--licença">Licença</a>
 </p>
@@ -39,7 +38,31 @@ O dt money é uma aplicação de controle de finanças pessoais onde o usuário 
 - [x] Todas as transações são exibidas em uma tabela;
 - [x] É mostrado um resumo com todas as entradas, saídas e o total de dinheiro.
 
-## 🎨 Demo
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+-   **[ReactJS](https://pt-br.reactjs.org/docs/getting-started.html)**
+-   **[TypeScript](https://www.typescriptlang.org/)**
+-   **[Styled Components](https://styled-components.com/)**
+-   **[MirageJS](https://miragejs.com/)**
+-   **[Axios](https://github.com/axios/axios)**
+-   **[ContextAPI](#)**
+-   **[Hooks](#)**
+
+
+> Veja o arquivo  [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/web/package.json)
+
+Utilitários
+
+-   **[Create React App](https://create-react-app.dev/)**
+-   **[Google Fonts](https://fonts.google.com/)**
+-   **[React Modal](https://github.com/reactjs/react-modal)**
+-   **[Polished](https://github.com/styled-components/polished)**
+-   **[Intl]()**
+
+
+## 🎨 Layout
 
 <img alt="gif dt money" src="src/assets/Screencast 2021-10-24 14_26_54.gif">
 
@@ -69,23 +92,16 @@ $ npm run start
 
 ```
 
-## 🛠 Tecnologias
+## 🦸 Autor
 
-As seguintes ferramentas foram usadas na construção do projeto:
+- [@DanielSouz4](https://github.com/DanielSouz4)
 
--   **[ReactJS](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
--   **[TypeScript](https://react-icons.github.io/react-icons/)**
--   **[Styled Componets](https://react-icons.github.io/react-icons/)**
--   **[MirageJS](https://react-icons.github.io/react-icons/)**
--   **[Axios](https://github.com/axios/axios)**
--   **[ContextAPI](https://react-leaflet.js.org/en/)**
--   **[hooks](https://react-leaflet.js.org/)**
+[![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Souza-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielsouzadev/)](https://www.linkedin.com/in/danielsouzadev/) 
+[![Gmail Badge](https://img.shields.io/badge/-danielsouza51764@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielsouza51764@gmail.com)](mailto:danielsouza51764@gmail.com)
 
-> Veja o arquivo  [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/web/package.json)
 
-Utilitários
+## 📝 Licença
 
--   **[Create-eact-app](https://www.figma.com/)**
--   **[google-fonts](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1)**
--   **[react-modal](https://react-leaflet.js.org/en/)**
--   **[Intl](https://react-leaflet.js.org/en/)**
+Este projeto esta sobe a licença [MIT](#).
+
+Feito por Daniel Souza 👋🏽 [Entre em contato!](https://www.linkedin.com/in/danielsouzadev/)
