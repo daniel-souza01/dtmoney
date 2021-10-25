@@ -24,7 +24,7 @@
  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  <a href="#-como-executar-o-projeto">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
- <a href="#-autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#-autores">Autores</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  <a href="#-licença">Licença</a>
 </p>
 
@@ -51,7 +51,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   [React Hooks](#)
 
 
-> Veja o arquivo  [package.json](https://github.com/tgmarinho/README-ecoleta/blob/master/web/package.json)
+> Veja o arquivo  [package.json](https://github.com/DanielSouz4/dt-money/blob/0508643803398b6f0856fe23a9bc201817dda711/package.json)
 
 Utilitários
 
@@ -59,7 +59,6 @@ Utilitários
 -   [Google Fonts](https://fonts.google.com/)
 -   [React Modal](https://github.com/reactjs/react-modal)
 -   [Polished](https://github.com/styled-components/polished)
--   [Intl]()
 
 
 ## 🎨 Layout
@@ -72,7 +71,9 @@ Utilitários
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/). feito isso, agora basta seguir os passos abaixo.
+
+### Passo a passo
 
 ```bash
 
@@ -88,17 +89,14 @@ $ npm install
 # Execute a aplicação em modo de desenvolvimento
 $ npm run start
 
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
-
 ```
+A aplicação será aberta na porta:3000 - acesse [`localhost:3000`](http://localhost:3000)
 
-## 🦸 Autor
+## 🦸 Autores
 
 - [@DanielSouz4](https://github.com/DanielSouz4)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Daniel%20Souza-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielsouzadev/)](https://www.linkedin.com/in/danielsouzadev/) 
-[![Gmail Badge](https://img.shields.io/badge/-danielsouza51764@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielsouza51764@gmail.com)](mailto:danielsouza51764@gmail.com)
-
+- [@Rocketseat](https://github.com/Rocketseat)
 
 ## 📝 Licença
 
