@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DanielSouz4/dt-money/blob/880aaa08efed337cded8b2dbf8ac232d02f89f08/LICENSE">
+  <a href="https://github.com/DanielSouz4/dt-money/blob/880aaa08efed337cded8b2dbf8ac232d02f89f08/LICENSE" title="acessar licença">
     <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=33cc95&labelColor=5429cc" alt="License"> 
   </a>
   
@@ -44,24 +44,22 @@ O dt money:heavy_dollar_sign: é uma aplicação de controle de finanças pessoa
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
--   [ReactJS](https://pt-br.reactjs.org/docs/getting-started.html)
--   [TypeScript](https://www.typescriptlang.org/)
--   [Styled Components](https://styled-components.com/)
--   [MirageJS](https://miragejs.com/)
--   [Axios](https://github.com/axios/axios)
--   [Context API](#)
--   [React Hooks](#)
+- [ReactJS](https://pt-br.reactjs.org/docs/getting-started.html)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/)
+- [MirageJS](https://miragejs.com/)
+- [Axios](https://github.com/axios/axios)
+- [Context API](#)
+- [React Hooks](#)
 
-
-> Veja o arquivo  [package.json](https://github.com/DanielSouz4/dt-money/blob/0508643803398b6f0856fe23a9bc201817dda711/package.json)
+> Veja o arquivo [package.json](https://github.com/DanielSouz4/dt-money/blob/0508643803398b6f0856fe23a9bc201817dda711/package.json)
 
 Utilitários
 
--   [Create React App](https://create-react-app.dev/)
--   [Google Fonts](https://fonts.google.com/)
--   [React Modal](https://github.com/reactjs/react-modal)
--   [Polished](https://github.com/styled-components/polished)
-
+- [Create React App](https://create-react-app.dev/)
+- [Google Fonts](https://fonts.google.com/)
+- [React Modal](https://github.com/reactjs/react-modal)
+- [Polished](https://github.com/styled-components/polished)
 
 ## 🎨 Layout
 
@@ -72,7 +70,7 @@ Utilitários
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/). feito isso, agora basta seguir os passos abaixo.
 
 ### Passo a passo
@@ -92,6 +90,7 @@ $ npm install
 $ npm run start
 
 ```
+
 A aplicação será aberta na porta:3000 - acesse [`localhost:3000`](http://localhost:3000)
 
 ## 🦸 Autores
