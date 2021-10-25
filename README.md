@@ -3,8 +3,10 @@
 </p>
 
 <p align="center">
-  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=33cc95&labelColor=5429cc" alt="License"> 
-	
+  <a href="https://github.com/DanielSouz4/dt-money/blob/880aaa08efed337cded8b2dbf8ac232d02f89f08/LICENSE">
+    <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=33cc95&labelColor=5429cc" alt="License"> 
+  </a>
+  
   <a href="https://www.linkedin.com/in/danielsouzadev/" title="acessar linkedin do autor">
     <img  src="https://img.shields.io/static/v1?label=feito por&message=Daniel Souza&color=33cc95&labelColor=5429cc" alt="License">   
  </a>
@@ -100,6 +102,6 @@ A aplicação será aberta na porta:3000 - acesse [`localhost:3000`](http://loca
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](#).
+Este projeto esta sobe a licença [MIT](https://github.com/DanielSouz4/dt-money/blob/880aaa08efed337cded8b2dbf8ac232d02f89f08/LICENSE).
 
 Feito por Daniel Souza 👋🏽 [Entre em contato!](https://www.linkedin.com/in/danielsouzadev/)
