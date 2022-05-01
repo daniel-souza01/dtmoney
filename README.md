@@ -103,4 +103,4 @@ A aplicação será aberta na porta:3000 - acesse [`localhost:3000`](http://loca
 
 Este projeto esta sobe a licença [MIT](https://github.com/DanielSouz4/dt-money/blob/880aaa08efed337cded8b2dbf8ac232d02f89f08/LICENSE).
 
-Feito por Daniel Souza 👋🏽 [Entre em contato!](https://www.linkedin.com/in/danielsouzadev/)
+Feito por Daniel Souza 👋🏽 [Entre em contato!](https://www.linkedin.com/in/daniel-souza01/)
